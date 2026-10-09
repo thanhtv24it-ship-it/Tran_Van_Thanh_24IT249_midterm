@@ -1,9 +1,8 @@
 # Dự án giữa kỳ – Triển khai ls(1)
 
-**Sinh viên:** [Họ và tên]  
-**MSSV:** [StudentID]  
-**Kho GitHub:** `https://github.com/[username]/Name_studentID_midterm`  
-*(Thay thế bằng đường dẫn thực tế sau khi đẩy lên GitHub)*
+**Sinh viên:** Trần Văn Thành  
+**MSSV:** 24IT249
+**Kho GitHub:** `https://github.com/thanhtv24it-ship-it/Tran_Van_Thanh_24IT249_midterm.git`  
 
 ## 1. Mô tả dự án
 
@@ -14,7 +13,7 @@ Chương trình là một phiên bản đơn giản hóa của lệnh `ls(1)` tr
 ```
 ls_project/
 ├── Makefile
-├── README.md               # Báo cáo này
+├── README.md             
 ├── .gitignore
 ├── include/
 │   ├── options.h           # Định nghĩa cấu trúc options và hàm parse
