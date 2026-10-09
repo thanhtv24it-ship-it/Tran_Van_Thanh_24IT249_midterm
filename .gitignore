@@ -1,0 +1,23 @@
+# Compiled binaries and object files
+ls
+*.o
+obj/
+*.out
+*.exe
+
+# Editor / IDE
+*.swp
+*~
+.vscode/
+.idea/
+*.dSYM/
+
+# Debug / core dumps
+core
+core.*
+*.core
+
+# Temporary files
+*.tmp
+*.bak
+.DS_Store
